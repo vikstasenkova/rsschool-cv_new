@@ -3,8 +3,8 @@
 ---
 ##  Frontend Developer
 ---
-#### CONTACT INFORMATION
-#### ADOUT ME
-#### SKILLS
-#### CODE EXAMPLE
-#### LANGUAGES
+### CONTACT INFORMATION
+### ADOUT ME
+### SKILLS
+### CODE EXAMPLE
+### LANGUAGES
