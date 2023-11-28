@@ -30,3 +30,6 @@ function multiply (a, b){
 ```
 
 ### LANGUAGES
+
+* Russian - native
+* English - [B2](https://www.efset.org/cert/CXVWoZ "EF SET Certificate")
