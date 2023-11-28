@@ -23,4 +23,10 @@ I'm an enthusiastic and detail-oriented Frontend Software Engineer seeking an en
 * Adobe Photoshop, Illustrator, InDesign
   
 ### CODE EXAMPLE
+```
+function multiply (a, b){
+    return a * b
+}
+```
+
 ### LANGUAGES
